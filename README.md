@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hello there, I'm Rafael! 👋🏼
+
+Currently studying Computer Science at UBC & Research Analyst at Alphabyte 🧑🏻‍💻
+
+[![Static Badge](https://img.shields.io/badge/-linkedIn-blue)](https://www.linkedin.com/in/parkrafael/)
+[![Static Badge](https://img.shields.io/badge/-website-green)](parkrafael@gmail.com)
 
 <!--
 **parkrafael/parkrafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
