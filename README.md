@@ -2,8 +2,8 @@
 
 Currently studying Computer Science at UBC & Research Analyst at Alphabyte 🧑🏻‍💻
 
-[![Static Badge](https://img.shields.io/badge/-linkedIn-blue)](https://www.linkedin.com/in/parkrafael/)
-[![Static Badge](https://img.shields.io/badge/-instagram-green)](https://www.instagram.com/rafaelkpark/)
+[![Static Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/parkrafael/)
+[![Static Badge](https://img.shields.io/badge/-Instagram-green)](https://www.instagram.com/rafaelkpark/)
 
 <!--
 **parkrafael/parkrafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
