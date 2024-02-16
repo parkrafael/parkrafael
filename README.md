@@ -1,6 +1,6 @@
 ## Hello there, I'm Rafael! 👋🏼
 
-Currently studying Computer Science at UBC & Research Analyst at Alphabyte 🧑🏻‍💻
+Research Analyst at Alphabyte 🧑🏻‍💻
 
 [![Static Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/parkrafael/)
 [![Static Badge](https://img.shields.io/badge/-Email-red)](mailto:yourname@example.com)
